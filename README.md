@@ -14,6 +14,8 @@ Run `json-server --watch db.json`.
 
 ## Development server
 
+On other terminal: 
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
